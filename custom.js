@@ -20,7 +20,7 @@ The attenddee are :
 15. Robby Maulana
 16. Sandi Rachmad Buchori
 17. Sean Satya Henura
-18. Yohanes Ricky Andika Pradana
+18. Yohanes Ricky Andika Pradana --> present
 19. Yordan Kristianto
 
 Please joinning the session so we can try at least.
