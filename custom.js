@@ -1,4 +1,4 @@
-Hi
+﻿Hi
 This Workshop is available for 19 Trainee
 
 The attenddee are :
@@ -24,3 +24,4 @@ The attenddee are :
 19. Yordan Kristianto
 
 Please joinning the session so we can try at least.
+weeeee #yuda
